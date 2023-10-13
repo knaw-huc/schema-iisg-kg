@@ -1,0 +1,23 @@
+@prefix dcmitype: <http://purl.org/dc/dcmitype/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix schema: <https://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix iisg: <https://iisg.amsterdam/schema/> .
+
+schema:Book iisg:displayLabel "Boek"@nl .
+rico:RecordSet iisg:displayLabel "Archival Fonds / Collection"@nl .
+
+# rico:RecordSet;Archival File
+# sdo:ScholarlyArticle;Article (journal)
+# sdo:MusicRecording;Audio (Music)
+# sdo:AudioObject;Audio (Spoken)
+# sdo:Book;Book/Brochure
+# sdo:DataSet;Dataset
+# sdo:DataCatalog;Data Catalogue
+# sdo:Event;Event Page
+# sdo:ImageObject;Image
+# dcm:PhysicalObject;Object (e.g. banner)
+# sdo:CreativeWorkSeries;Serials
+# foaf:PersonalProfileDocument;Staff Page
+# sdo:VideoObject;Video (Moving Image)
+# sdo:Webpage;Webpage
