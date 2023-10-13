@@ -1,0 +1,19 @@
+{
+    "@context": {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rico": "https://www.ica.org/standards/RiC/ontology#",
+        "schema": "https://schema.org/",
+        "foaf": "http://xmlns.com/foaf/0.1/",
+        "dcm": "http://purl.org/dc/dcmitype/",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "ImageObject": {
+            "@id": "schema:ImageObject"
+        },
+        "RecordSet": {
+            "@id": "rico:RecordSet"
+        },
+        "name": {
+            "@id" : "schema:name"
+        }
+    }
+}
