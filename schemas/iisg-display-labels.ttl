@@ -2,7 +2,8 @@
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix schema: <https://schema.org/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix iisg: <https://iisg.amsterdam/schema/> .
+@prefix iisg: <https://iisg.amsterdam/vocab/> .
+@prefix rico: <https://www.ica.org/standards/RiC/ontology#> .
 
 schema:Book iisg:displayLabel "Boek"@nl .
 rico:RecordSet iisg:displayLabel "Archival Fonds / Collection"@nl .
