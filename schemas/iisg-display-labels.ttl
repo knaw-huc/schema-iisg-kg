@@ -16,7 +16,7 @@ sdo:MusicRecording iisg:displayLabel "Audio (Music)"@en .
 dcm:PhysicalObject iisg:displayLabel "Object (e.g. banner)"@en .
 foaf:PersonalProfileDocument iisg:displayLabel "Staff Page"@en .
 rico:RecordSet iisg:displayLabel "Archival File"@en .
-rico:RecordSet iisg:displayLabel "Archival Fonds / Collection"@en .
+#rico:RecordSet iisg:displayLabel "Archival Fonds / Collection"@en .
 sdo:ScholarlyArticle iisg:displayLabel "Article (journal)"@en .
 sdo:VideoObject iisg:displayLabel "Video (Moving Image)"@en .
 sdo:Webpage iisg:displayLabel "Webpage"@en .
