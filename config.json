@@ -6,7 +6,6 @@
     "range": ["http://www.w3.org/2000/01/rdf-schema#range", "http://schema.org/rangeIncludes"],
     "output_folder": "./doc",
     "language": "english",
-    "html_template": "./template.html",
     "title": "Documentation for IISH Knowledge Graph",
     "description": "This is automatically generated documentation of the application profile for my schema."
 }
