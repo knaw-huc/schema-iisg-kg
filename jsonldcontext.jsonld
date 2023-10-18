@@ -7,14 +7,14 @@
         "foaf": "http://xmlns.com/foaf/0.1/",
         "dcmitype": "http://purl.org/dc/dcmitype/",        
         "skos": "http://www.w3.org/2004/02/skos/core#",
-        "Audio (music)": {
-            "@id": "sdo:AudioObject"
-        },
-        "Archive": {
+        "Archival Fonds-Collection": {
             "@id": "rico:RecordSet"
         },
-        "Article (journal)": {
-            "@id": "sdo:ScholarlyArticle"
+        "Audio (music)": {
+            "@id": "sdo:MusicRecording"
+        },
+        "Audio (spoken)": {
+            "@id": "sdo:AudioObject"
         },
         "Book-Brochure": {
             "@id": "sdo:Book"
@@ -28,24 +28,17 @@
         "Event page": {
             "@id": "sdo:Event"
         },
+        "File (in dataset)": {
+            "@id": "sdo:DigitalDocument"
+        },
         "Image": {
             "@id": "sdo:ImageObject"
-        },
-        "Event page": {
-            "@id": "sdo:Event"
-        },
-        "Event page": {
-            "@id": "sdo:Event"
         },
         "Object (e.g., banner)": {
             "@id": "dcmitype:PhysicalObject"
         },
-        "Periodical": {
+        "Serial": {
             "@id": "sdo:CreativeWorkSeries"
-        },
-
-        "Staff page": {
-            "@id": "foaf:PersonalProfileDocument"
         },
         "Video (moving image)": {
             "@id": "sdo:VideoObject"
