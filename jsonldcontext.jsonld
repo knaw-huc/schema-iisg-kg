@@ -7,266 +7,47 @@
         "foaf": "http://xmlns.com/foaf/0.1/",
         "dcm": "http://purl.org/dc/dcmitype/",        
         "skos": "http://www.w3.org/2004/02/skos/core#",
-        "Event": {
-            "@id": "schema:Event"
+        "Archival file": {
+            "@id": "rico:RecordSet"
         },
-        "Person": {
-            "@id": "schema:Person"
-        },
-        "Place": {
-            "@id": "schema:Place"
-        },
-        "PointOfInterest": {
-            "@id": "pied:PointOfInterest"
-        },
-        "Organization": {
-            "@id": "schema:Organization"
-        },
-        "Bronorganisatie": {
-            "@id": "pied:Bronorganisatie"
-        },
-        "DefinedTerm": {
-            "@id": "schema:DefinedTerm"
-        },
-        "CreativeWork": {
-            "@id": "schema:CreativeWork"
-        },
-        "VisualArtwork": {
-            "@id": "schema:VisualArtwork"
-        },
-        "Painting": {
-            "@id": "schema:Painting"
-        },
-        "Drawing": {
-            "@id": "schema:Drawing"
-        },
-        "Photograph": {
-            "@id": "schema:Photograph"
-        },
-        "MediaObject": {
-            "@id": "schema:MediaObject"
-        },
-        "VideoObject": {
-            "@id": "schema:VideoObject"
-        },
-        "AudioObject": {
+        "Audio": {
             "@id": "schema:AudioObject"
+        },        
+        "Book/Brochure": {
+            "@id": "schema:Book"
         },
-        "ImageObject": {
-            "@id": "schema:ImageObject"
-        },
-        "ArchiveComponent": {
-            "@id": "schema:ArchiveComponent"
-        },
-        "Story": {
-            "@id": "pied:Story"
-        },
-        "StoryComponent": {
-            "@id": "pied:StoryComponent"
+        "Data catalog": {
+            "@id": "schema:DataCatalog"
         },
         "Dataset": {
-            "@id": "schema:Dataset"
+            "@id": "schema:DataSet"
+        },    
+        "Event page": {
+            "@id": "schema:Event"
+        },    
+        "Image": {
+            "@id": "schema:ImageObject"
         },
-        "Entity": {
-            "@id": "prov:Entity"
+        "Object (e.g. banner)": {
+            "@id": "dcm:PhysicalObject"
         },
-        "LifeEvent": {
-            "@id": "pied:LifeEvent"
+        "Staff page": {
+            "@id": "foaf:PersonalProfileDocument"
         },
-        "TransportLifeEvent": {
-            "@id": "pied:TransportLifeEvent"
+        "Serial": {
+            "@id": "schema:CreativeWorkSeries"
         },
-        "TransferEvent": {
-            "@id": "pied:TransferEvent"
+        "Serial": {
+            "@id": "schema:CreativeWorkSeries"
         },
-        "sameAs": {
-            "@id": "schema:sameAs"
+        "Scholarly article": {
+            "@id": "schema:ScholarlyArticle"
         },
-        "birthYear": {
-            "@id": "pied:birthYear"
+        "Scholarly article": {
+            "@id": "schema:VideoObject"
         },
-        "deathYear": {
-            "@id": "pied:deathYear"
-        },
-        "dissolutionYear": {
-            "@id": "pied:dissolutionYear"
-        },
-        "endYear": {
-            "@id": "pied:endYear"
-        },
-        "foundingYear": {
-            "@id": "pied:foundingYear"
-        },
-        "imageSource": {
-            "@id": "pied:imageSource"
-        },
-        "referenceURL": {
-            "@id": "pied:referenceURL"
-        },
-        "sourceImage": {
-            "@id": "pied:sourceImage"
-        },
-        "startYear": {
-            "@id": "pied:startYear"
-        },
-        "thema": {
-            "@id": "pied:thema"
-        },
-        "yearCreated": {
-            "@id": "pied:yearCreated"
-        },
-        "wasDerivedFrom": {
-            "@id": "prov:wasDerivedFrom"
-        },
-        "type": {
-            "@id": "rdf:type"
-        },
-        "about": {
-            "@id": "schema:about"
-        },
-        "actor": {
-            "@id": "schema:actor"
-        },
-        "additionalType": {
-            "@id": "schema:additionalType"
-        },
-        "alternateName": {
-            "@id": "schema:alternateName"
-        },
-        "birthDate": {
-            "@id": "schema:birthDate"
-        },
-        "birthPlace": {
-            "@id": "schema:birthPlace"
-        },
-        "caption": {
-            "@id": "schema:caption"
-        },
-        "citation": {
-            "@id": "schema:citation"
-        },
-        "contentLocation": {
-            "@id": "schema:contentLocation"
-        },
-        "contributor": {
-            "@id": "schema:contributor"
-        },
-        "creator": {
-            "@id": "schema:creator"
-        },
-        "dateCreated": {
-            "@id": "schema:dateCreated"
-        },
-        "deathDate": {
-            "@id": "schema:deathDate"
-        },
-        "deathPlace": {
-            "@id": "schema:deathPlace"
-        },
-        "description": {
-            "@id": "schema:description"
-        },
-        "dissolutionDate": {
-            "@id": "schema:dissolutionDate"
-        },
-        "endDate": {
-            "@id": "schema:endDate"
-        },
-        "familyName": {
-            "@id": "schema:familyName"
-        },
-        "foundingDate": {
-            "@id": "schema:foundingDate"
-        },
-        "fromLocation": {
-            "@id": "schema:fromLocation"
-        },
-        "gender": {
-            "@id": "schema:gender"
-        },
-        "givenName": {
-            "@id": "schema:givenName"
-        },
-        "identifier": {
-            "@id": "schema:identifier"
-        },
-        "image": {
-            "@id": "schema:image"
-        },
-        "imageCaption": {
-            "@id": "schema:imageCaption"
-        },
-        "isPartOf": {
-            "@id": "schema:isPartOf"
-        },
-        "jobTitle": {
-            "@id": "schema:jobTitle"
-        },
-        "keywords": {
-            "@id": "schema:keywords"
-        },
-        "latitude": {
-            "@id": "schema:latitude"
-        },
-        "license": {
-            "@id": "schema:license"
-        },
-        "location": {
-            "@id": "schema:location"
-        },
-        "longitude": {
-            "@id": "schema:longitude"
-        },
-        "mainEntityOfPage": {
-            "@id": "schema:mainEntityOfPage"
-        },
-        "material": {
-            "@id": "schema:material"
-        },
-        "member": {
-            "@id": "schema:member"
-        },
-        "memberOf": {
-            "@id": "schema:memberOf"
-        },
-        "name": {
-            "@id": "schema:name"
-        },
-        "parent": {
-            "@id": "schema:parent"
-        },
-        "position": {
-            "@id": "schema:position"
-        },
-        "provider": {
-            "@id": "schema:provider"
-        },
-        "publisher": {
-            "@id": "schema:publisher"
-        },
-        "spouse": {
-            "@id": "schema:spouse"
-        },
-        "startDate": {
-            "@id": "schema:startDate"
-        },
-        "superEvent": {
-            "@id": "schema:superEvent"
-        },
-        "temporal": {
-            "@id": "schema:temporal"
-        },
-        "thumbnail": {
-            "@id": "schema:thumbnail"
-        },
-        "toLocation": {
-            "@id": "schema:toLocation"
-        },
-        "url": {
-            "@id": "schema:url"
-        },
-        "contentUrl": {
-            "@id": "schema:contentUrl"
+        "Web page": {
+            "@id": "schema:Webpage"
         }
     }
 }
