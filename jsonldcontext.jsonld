@@ -13,6 +13,9 @@
         "Archive": {
             "@id": "rico:RecordSet"
         },
+        "Book/Brochure": {
+            "@id": "schema:Book"
+        },        
         "Creator (test)": {
             "@id": "schema:creator"
         }     
