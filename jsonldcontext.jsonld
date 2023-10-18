@@ -7,47 +7,8 @@
         "foaf": "http://xmlns.com/foaf/0.1/",
         "dcm": "http://purl.org/dc/dcmitype/",        
         "skos": "http://www.w3.org/2004/02/skos/core#",
-        "Archival file": {
-            "@id": "rico:RecordSet"
-        },
         "Audio": {
             "@id": "schema:AudioObject"
-        },        
-        "Book/Brochure": {
-            "@id": "schema:Book"
-        },
-        "Data catalog": {
-            "@id": "schema:DataCatalog"
-        },
-        "Dataset": {
-            "@id": "schema:DataSet"
-        },    
-        "Event page": {
-            "@id": "schema:Event"
-        },    
-        "Image": {
-            "@id": "schema:ImageObject"
-        },
-        "Object (e.g. banner)": {
-            "@id": "dcm:PhysicalObject"
-        },
-        "Staff page": {
-            "@id": "foaf:PersonalProfileDocument"
-        },
-        "Serial": {
-            "@id": "schema:CreativeWorkSeries"
-        },
-        "Serial": {
-            "@id": "schema:CreativeWorkSeries"
-        },
-        "Scholarly article": {
-            "@id": "schema:ScholarlyArticle"
-        },
-        "Scholarly article": {
-            "@id": "schema:VideoObject"
-        },
-        "Web page": {
-            "@id": "schema:Webpage"
-        }
+        }     
     }
 }
