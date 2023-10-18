@@ -1,5 +1,5 @@
 # iisg-kg-schema
-Documentation at https://lilimelgar.github.io/iisg-kg-schema/
+Documentation at (https://lilimelgar.github.io/schema-1/)
 
 # Schemas used at the IISG KG
 
@@ -27,3 +27,4 @@ Version: 2004
 
 # Acknowledgements
 This repository is an adapted copy of the schema repository for "Insischerfgoed" project (https://github.com/indischerfgoed/schema).
+Thanks to Michiel Hildebrand (SPINQUE) for his advise.
