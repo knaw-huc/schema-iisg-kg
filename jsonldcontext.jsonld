@@ -2,52 +2,55 @@
     "@context": {
         "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
         "prov": "http://www.w3.org/ns/prov#",
-        "sdo": "http://schema.org/",
+        "sdo": "https://schema.org/",
         "rico": "https://www.ica.org/standards/RiC/ontology#",
         "foaf": "http://xmlns.com/foaf/0.1/",
         "dcmitype": "http://purl.org/dc/dcmitype/",        
         "skos": "http://www.w3.org/2004/02/skos/core#",
-        "Archival Fonds-Collection": {
+        "RecordSet": {
             "@id": "rico:RecordSet"
         },
-        "Audio (music)": {
+        "MusicRecording": {
             "@id": "sdo:MusicRecording"
         },
-        "Audio (spoken)": {
+        "AudioObject": {
             "@id": "sdo:AudioObject"
         },
-        "Book-Brochure": {
+        "Book": {
             "@id": "sdo:Book"
         },
-        "Data catalog": {
+        "DataCatalog": {
             "@id": "sdo:DataCatalog"
         },
         "Dataset": {
             "@id": "sdo:DataSet"
         },
-        "Event page": {
+        "Event": {
             "@id": "sdo:Event"
         },
-        "File (in dataset)": {
+        "DigitalDocument": {
             "@id": "sdo:DigitalDocument"
         },
-        "Image": {
+        "PhysicalObject": {
             "@id": "sdo:ImageObject"
         },
-        "Object (e.g., banner)": {
+        "PhysicalObject": {
             "@id": "dcmitype:PhysicalObject"
         },
-        "Serial": {
+        "CreativeWorkSeries": {
             "@id": "sdo:CreativeWorkSeries"
         },
-        "Video (moving image)": {
+        "VideoObject": {
             "@id": "sdo:VideoObject"
         },
-        "Web page": {
+        "Webpage": {
             "@id": "sdo:Webpage"
         },            
-        "Creator": {
+        "creator": {
             "@id": "sdo:creator"
+        },
+        "name": {
+            "@id": "sdo:name"
         }     
     }
 }
