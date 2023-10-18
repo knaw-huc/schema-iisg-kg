@@ -10,7 +10,7 @@
         "Audio": {
             "@id": "schema:AudioObject"
         },
-        "Creator": {
+        "Creator (test)": {
             "@id": "schema:creator"
         }     
     }
