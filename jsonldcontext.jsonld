@@ -7,7 +7,7 @@
         "foaf": "http://xmlns.com/foaf/0.1/",
         "dcm": "http://purl.org/dc/dcmitype/",        
         "skos": "http://www.w3.org/2004/02/skos/core#",
-        "Audio": {
+        "Audio (music)": {
             "@id": "schema:AudioObject"
         },
         "Archive": {
@@ -15,6 +15,24 @@
         },
         "Book-Brochure": {
             "@id": "schema:Book"
+        },
+        "Data catalog": {
+            "@id": "schema:DataCatalog"
+        },
+        "Dataset": {
+            "@id": "schema:DataSet"
+        },
+        "Event page": {
+            "@id": "schema:Event"
+        },
+        "Image": {
+            "@id": "schema:ImageObject"
+        },
+        "Event page": {
+            "@id": "schema:Event"
+        },
+        "Event page": {
+            "@id": "schema:Event"
         },
         "Serial": {
             "@id": "schema:CreativeWorkSeries"
