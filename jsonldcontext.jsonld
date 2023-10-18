@@ -13,6 +13,9 @@
         "Archive": {
             "@id": "rico:RecordSet"
         },
+        "Article (journal)": {
+            "@id": "schema:ScholarlyArticle"
+        },
         "Book-Brochure": {
             "@id": "schema:Book"
         },
@@ -40,8 +43,15 @@
         "Periodical": {
             "@id": "schema:CreativeWorkSeries"
         },
+
         "Staff page": {
             "@id": "foaf:PersonalProfileDocument"
+        },
+        "Video (moving image)": {
+            "@id": "schema:VideoObject"
+        },
+        "Web page": {
+            "@id": "schema:Webpage"
         },            
         "Creator": {
             "@id": "schema:creator"
