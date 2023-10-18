@@ -2,59 +2,59 @@
     "@context": {
         "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
         "prov": "http://www.w3.org/ns/prov#",
-        "schema": "http://schema.org/",
+        "sdo": "http://schema.org/",
         "rico": "https://www.ica.org/standards/RiC/ontology#",
         "foaf": "http://xmlns.com/foaf/0.1/",
         "dcmitype": "http://purl.org/dc/dcmitype/",        
         "skos": "http://www.w3.org/2004/02/skos/core#",
         "Audio (music)": {
-            "@id": "schema:AudioObject"
+            "@id": "sdo:AudioObject"
         },
         "Archive": {
             "@id": "rico:RecordSet"
         },
         "Article (journal)": {
-            "@id": "schema:ScholarlyArticle"
+            "@id": "sdo:ScholarlyArticle"
         },
         "Book-Brochure": {
-            "@id": "schema:Book"
+            "@id": "sdo:Book"
         },
         "Data catalog": {
-            "@id": "schema:DataCatalog"
+            "@id": "sdo:DataCatalog"
         },
         "Dataset": {
-            "@id": "schema:DataSet"
+            "@id": "sdo:DataSet"
         },
         "Event page": {
-            "@id": "schema:Event"
+            "@id": "sdo:Event"
         },
         "Image": {
-            "@id": "schema:ImageObject"
+            "@id": "sdo:ImageObject"
         },
         "Event page": {
-            "@id": "schema:Event"
+            "@id": "sdo:Event"
         },
         "Event page": {
-            "@id": "schema:Event"
+            "@id": "sdo:Event"
         },
         "Object (e.g., banner)": {
             "@id": "dcmitype:PhysicalObject"
         },
         "Periodical": {
-            "@id": "schema:CreativeWorkSeries"
+            "@id": "sdo:CreativeWorkSeries"
         },
 
         "Staff page": {
             "@id": "foaf:PersonalProfileDocument"
         },
         "Video (moving image)": {
-            "@id": "schema:VideoObject"
+            "@id": "sdo:VideoObject"
         },
         "Web page": {
-            "@id": "schema:Webpage"
+            "@id": "sdo:Webpage"
         },            
         "Creator": {
-            "@id": "schema:creator"
+            "@id": "sdo:creator"
         }     
     }
 }
