@@ -1,5 +1,5 @@
 # iisg-kg-schema
-Documentation at (https://lilimelgar.github.io/schema-1/)
+Documentation at (https://lilimelgar.github.io/schema-iisg-kg/)
 
 # Schemas used at the IISG KG
 
