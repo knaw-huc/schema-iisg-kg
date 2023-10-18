@@ -10,6 +10,9 @@
         "Audio": {
             "@id": "schema:AudioObject"
         },
+        "Archive": {
+            "@id": "rico:RecordSet"
+        },
         "Creator (test)": {
             "@id": "schema:creator"
         }     
