@@ -39,8 +39,11 @@
         },
         "Periodical": {
             "@id": "schema:CreativeWorkSeries"
+        },
+        "Staff page": {
+            "@id": "foaf:PersonalProfileDocument"
         },            
-        "Creator (test)": {
+        "Creator": {
             "@id": "schema:creator"
         }     
     }
