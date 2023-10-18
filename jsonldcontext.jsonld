@@ -15,7 +15,10 @@
         },
         "Book-Brochure": {
             "@id": "schema:Book"
-        },    
+        },
+        "Serial": {
+            "@id": "schema:CreativeWorkSeries"
+        },            
         "Creator (test)": {
             "@id": "schema:creator"
         }     
