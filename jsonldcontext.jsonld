@@ -31,7 +31,7 @@
         "DigitalDocument": {
             "@id": "sdo:DigitalDocument"
         },
-        "PhysicalObject": {
+        "ImageObject": {
             "@id": "sdo:ImageObject"
         },
         "PhysicalObject": {
