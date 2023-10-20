@@ -18,4 +18,4 @@ foaf:PersonalProfileDocument iisg:displayLabel "Staff Page"@en .
 rico:RecordSet iisg:displayLabel "Archival File"@en .
 sdo:ScholarlyArticle iisg:displayLabel "Article (journal)"@en .
 sdo:VideoObject iisg:displayLabel "Video (Moving Image)"@en .
-sdo:Webpage iisg:displayLabel "Webpage"@en .
+sdo:WebPage iisg:displayLabel "Webpage"@en .
