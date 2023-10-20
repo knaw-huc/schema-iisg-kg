@@ -43,8 +43,8 @@
         "VideoObject": {
             "@id": "sdo:VideoObject"
         },
-        "Webpage": {
-            "@id": "sdo:Webpage"
+        "WebPage": {
+            "@id": "sdo:WebPage"
         },            
         "creator": {
             "@id": "sdo:creator"
