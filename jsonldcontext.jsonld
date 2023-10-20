@@ -23,7 +23,7 @@
             "@id": "sdo:DataCatalog"
         },
         "Dataset": {
-            "@id": "sdo:DataSet"
+            "@id": "sdo:Dataset"
         },
         "Event": {
             "@id": "sdo:Event"
