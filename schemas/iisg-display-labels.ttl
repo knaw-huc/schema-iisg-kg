@@ -9,7 +9,7 @@ sdo:AudioObject iisg:displayLabel "Audio (Spoken)"@en .
 sdo:Book iisg:displayLabel "Book/Brochure"@en .
 sdo:CreativeWorkSeries iisg:displayLabel "Serials"@en .
 sdo:DataCatalog iisg:displayLabel "Data Catalogue"@en .
-sdo:DataSet iisg:displayLabel "Dataset"@en .
+sdo:Dataset iisg:displayLabel "Dataset"@en .
 sdo:Event iisg:displayLabel "Event Page"@en .
 sdo:ImageObject iisg:displayLabel "Image"@en .
 sdo:MusicRecording iisg:displayLabel "Audio (Music)"@en .
