@@ -19,3 +19,4 @@ rico:RecordSet iisg:displayLabel "Archival Fonds/Collection"@en .
 sdo:ScholarlyArticle iisg:displayLabel "Article (journal)"@en .
 sdo:VideoObject iisg:displayLabel "Video (Moving Image)"@en .
 sdo:WebPage iisg:displayLabel "Webpage"@en .
+sdo:url iisg:displayLabel "Item details and access"@en .
