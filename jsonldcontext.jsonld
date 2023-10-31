@@ -54,6 +54,10 @@
         },
         "url": {
             "@id": "sdo:url"
+        },
+        "license": {
+            "@id": "sdo:license"
         }
+
     }
 }
