@@ -22,3 +22,4 @@ sdo:WebPage iisg:displayLabel "Webpage"@en .
 sdo:name iisg:displayLabel "Title"@en .
 sdo:url iisg:displayLabel "Item details and access"@en .
 sdo:creator iisg:displayLabel "Creator"@en .
+sdo:license iisg:displayLabel "License"@en .
