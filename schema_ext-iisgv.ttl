@@ -1,6 +1,6 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix schema: <http://schema.org/> .
+@prefix sdo: <http://schema.org/> .
 @prefix iisgv: <https://data.iisg.amsterdam/schema/> .
 
 ### This file defines and extension of schema.org for indische erfgoed.
@@ -14,7 +14,8 @@
 iisgv:nativeViewer a rdf:Property ;
         rdfs:label "nativeViewer"@nl ;
         rdfs:comment "URL of the page with the item/record details in the native website"@en ;
-        schema:URL .
+        sdo:domainIncludes sdo:Book
+        sdo:rangeIncludes sdo:URL .
 
 ### T.B.D.
 #access: prefix.iisgv('access'),
