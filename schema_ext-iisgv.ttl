@@ -1,7 +1,7 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sdo: <http://schema.org/> .
-@prefix iisgv: <https://data.iisg.amsterdam/schema/> .
+@prefix iisgv: <https://iisg.amsterdam/vocab/> .
 
 ### This file defines and extension of schema.org for indische erfgoed.
 
