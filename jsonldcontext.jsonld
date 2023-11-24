@@ -1,6 +1,6 @@
 {
     "@context": {
-        "iisgv": "https://data.iisg.amsterdam/schema/",
+        "iisgv": "https://iisg.amsterdam/vocab/",
         "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
         "prov": "http://www.w3.org/ns/prov#",
         "sdo": "https://schema.org/",
