@@ -14,7 +14,7 @@
 iisgv:nativeViewer a rdf:Property ;
         rdfs:label "nativeViewer"@nl ;
         rdfs:comment "URL of the page with the item/record details in the native website"@en ;
-        sdo:domainIncludes dcm:PhysicalObject, sdo:AudioObject, sdo:Book, sdo:Dataset, sdo:ImageObject, sdo:MusicRecording, sdo:VideoObject, sdo:WebPage, rico:RecordSet;
+        sdo:domainIncludes dcm:PhysicalObject, sdo:Article, sdo:AudioObject, sdo:Book, sdo:Dataset, sdo:ImageObject, sdo:MusicRecording, sdo:VideoObject, sdo:WebPage, rico:RecordSet;
         sdo:rangeIncludes sdo:URL .
 
 ### T.B.D.
