@@ -17,6 +17,9 @@
         "AudioObject": {
             "@id": "sdo:AudioObject"
         },
+        "Article": {
+            "@id": "sdo:Article"
+        },
         "Book": {
             "@id": "sdo:Book"
         },
