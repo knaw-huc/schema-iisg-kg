@@ -2,6 +2,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sdo: <http://schema.org/> .
 @prefix iisgv: <https://iisg.amsterdam/vocab/> .
+@prefix rico: <https://www.ica.org/standards/RiC/ontology#> .
+@prefix dcm: <http://purl.org/dc/dcmitype/> .
 
 ### This file defines and extension of schema.org for indische erfgoed.
 
@@ -14,7 +16,7 @@
 iisgv:nativeViewer a rdf:Property ;
         rdfs:label "nativeViewer"@nl ;
         rdfs:comment "URL of the page with the item/record details in the native website"@en ;
-        sdo:domainIncludes dcm:PhysicalObject, sdo:Article, sdo:AudioObject, sdo:Book, sdo:Dataset, sdo:ImageObject, sdo:MusicRecording, sdo:VideoObject, sdo:WebPage, rico:RecordSet;
+        sdo:domainIncludes dcm:PhysicalObject, sdo:Article, sdo:AudioObject, sdo:CreativeWorkSeries, sdo:Book, sdo:DataCatalog, sdo:Dataset, sdo:ImageObject, sdo:MusicRecording, sdo:VideoObject, sdo:WebPage, rico:RecordSet;
         sdo:rangeIncludes sdo:URL .
 
 ### T.B.D.
