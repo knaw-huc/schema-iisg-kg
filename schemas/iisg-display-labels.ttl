@@ -7,7 +7,7 @@
 
 sdo:Article iisgv:displayLabel "Article (journal)"@en .
 sdo:AudioObject iisgv:displayLabel "Audio (Spoken)"@en .
-sdo:Book iisgv:displayLabel "Book or Brochure"@en .
+sdo:Book iisgv:displayLabel "Book / Brochure"@en .
 sdo:CreativeWorkSeries iisgv:displayLabel "Serial"@en .
 sdo:DataCatalog iisgv:displayLabel "Data Catalogue"@en .
 sdo:Dataset iisgv:displayLabel "Dataset"@en .
