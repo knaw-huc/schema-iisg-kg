@@ -7,8 +7,8 @@
 
 sdo:Article iisgv:displayLabel "Article (journal)"@en .
 sdo:AudioObject iisgv:displayLabel "Audio (Spoken)"@en .
-sdo:Book iisgv:displayLabel "Book/Brochure"@en .
-sdo:CreativeWorkSeries iisgv:displayLabel "Serials"@en .
+sdo:Book iisgv:displayLabel "Book or Brochure"@en .
+sdo:CreativeWorkSeries iisgv:displayLabel "Serial"@en .
 sdo:DataCatalog iisgv:displayLabel "Data Catalogue"@en .
 sdo:Dataset iisgv:displayLabel "Dataset"@en .
 sdo:Event iisgv:displayLabel "Event Page"@en .
@@ -16,11 +16,12 @@ sdo:ImageObject iisgv:displayLabel "Image"@en .
 sdo:MusicRecording iisgv:displayLabel "Audio (Music)"@en .
 dcm:PhysicalObject iisgv:displayLabel "Object (e.g. banner)"@en .
 foaf:PersonalProfileDocument iisgv:displayLabel "Staff Page"@en .
-rico:RecordSet iisgv:displayLabel "Archival Fonds/Collection"@en .
+rico:RecordSet iisgv:displayLabel "Archive"@en .
 sdo:VideoObject iisgv:displayLabel "Video (Moving Image)"@en .
 sdo:WebPage iisgv:displayLabel "Webpage"@en .
 sdo:name iisgv:displayLabel "Title"@en .
 # sdo:url iisgv:displayLabel "Item details and access"@en .
-iisgv:nativeViewer iisgv:displayLabel "Item details and access"@en .
+iisgv:nativeViewer iisgv:displayLabel "View in original presentation"@en .
 sdo:creator iisgv:displayLabel "Creator"@en .
 sdo:license iisgv:displayLabel "License"@en .
+sdo:description iisgv:displayLabel "Description"@en .
