@@ -12,7 +12,7 @@ sdo:CreativeWorkSeries iisgv:displayLabel "Serial"@en .
 sdo:DataCatalog iisgv:displayLabel "Data Catalogue"@en .
 sdo:Dataset iisgv:displayLabel "Dataset"@en .
 sdo:Event iisgv:displayLabel "Event Page"@en .
-sdo:ImageObject iisgv:displayLabel "Image"@en .
+sdo:ImageObject iisgv:displayLabel "Image / Poster"@en .
 sdo:MusicRecording iisgv:displayLabel "Audio (Music)"@en .
 dcm:PhysicalObject iisgv:displayLabel "Object (e.g. banner)"@en .
 foaf:PersonalProfileDocument iisgv:displayLabel "Staff Page"@en .
