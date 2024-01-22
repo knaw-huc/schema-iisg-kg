@@ -49,22 +49,30 @@
         },
         "WebPage": {
             "@id": "sdo:WebPage"
-        },            
+        },
+        // PROPERTIES FROM HERE:
         "creator": {
             "@id": "sdo:creator"
+        },
+        // note: this property has to be updated to the newest version of RiCO in the Triply ETL and in the schemas here when it's done there (Jan.22, 2024)
+        "creationDate": {
+            "@id": "rico.creationDate"
+        },        
+        "dateCreated": {
+            "@id": "sdo:dateCreated"
+        },
+        "license": {
+            "@id": "sdo:license"
         },
         "name": {
             "@id": "sdo:name"
         },
-        "url": {
-            "@id": "sdo:url"
-        },
         "nativeViewer": {
             "@id": "iisgv:nativeViewer"
-        },        
-        "license": {
-            "@id": "sdo:license"
+        },
+        // only used for Dataverse (datasets) as an equivalent of iisgv:nativeViewer
+        "url": {
+            "@id": "sdo:url"
         }
-
     }
 }
