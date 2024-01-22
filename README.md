@@ -12,8 +12,8 @@ These are the schemas used to describe all the datasets:
 
 ## Records in Contexts Ontology (ICA RiC-O)
 RiC-O (Records in Contexts-Ontology) is an OWL ontology for describing archival record resources. As the second part of Records in Contexts standard, it is a formal representation of Records in Contexts Conceptual Model (RiC-CM).
-Homepage: https://www.ica.org/standards/RiC/RiC-O_v0-2.html#
-Version: 0.2
+Homepage: https://github.com/ICA-EGAD/RiC-O/tree/master/ontology/current-version
+Version: 1.0
 
 ## Dublin Core Type Vocabulary
 The DCMI Type Vocabulary was created in 2001. It defines classes for basic types of thing that can be described using DCMI metadata terms.
