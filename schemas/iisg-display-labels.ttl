@@ -25,5 +25,3 @@ iisgv:nativeViewer iisgv:displayLabel "View in original presentation"@en .
 sdo:creator iisgv:displayLabel "Creator"@en .
 sdo:license iisgv:displayLabel "License"@en .
 sdo:description iisgv:displayLabel "Description"@en .
-rico:creationDate iisgv:displayLabel "Dates of Creation"@en .
-sdo:dateCreated iisgv:displayLabel "Date of Creation"@en .
