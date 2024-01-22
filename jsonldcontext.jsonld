@@ -54,7 +54,7 @@
             "@id": "sdo:creator"
         },
         "creationDate": {
-            "@id": "rico:creationDate"
+            "@id": "rico.creationDate"
         },        
         "dateCreated": {
             "@id": "sdo:dateCreated"
