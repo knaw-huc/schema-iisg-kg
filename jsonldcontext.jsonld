@@ -54,7 +54,6 @@
             "@id": "sdo:creator"
         },
         "creationDate": {
-            "_comment": "this property has to be updated to the newest version of RiCO in the Triply ETL and in the schemas here when it's done there (Jan.22, 2024)",
             "@id": "rico.creationDate"
         },        
         "dateCreated": {
@@ -70,7 +69,6 @@
             "@id": "iisgv:nativeViewer"
         },
         "url": {
-            "_comment": "only used for Dataverse (datasets) as an equivalent of iisgv:nativeViewer",
             "@id": "sdo:url"
         }
     }
