@@ -64,7 +64,12 @@
         },        
         "license": {
             "@id": "sdo:license"
-        }
-
+        },
+        "creationDate": {
+            "@id": "rico:creationDate"
+        },
+        "dateCreated": {
+            "@id": "sdo:dateCreated"
+        }        
     }
 }
