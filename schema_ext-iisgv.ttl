@@ -5,7 +5,7 @@
 @prefix rico: <https://www.ica.org/standards/RiC/ontology#> .
 @prefix dcm: <http://purl.org/dc/dcmitype/> .
 
-### This file defines and extension of schema.org for indische erfgoed.
+### This file defines and extension of schema.org for the International Institute of Social History.
 
 ##IISG specific classes
 ### t.b.d.
