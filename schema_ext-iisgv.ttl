@@ -5,40 +5,8 @@
 @prefix rico: <https://www.ica.org/standards/RiC/ontology#> .
 @prefix dcm: <http://purl.org/dc/dcmitype/> .
 
-### This file defines and extension of schema.org for the International Institute of Social History.
-
-##IISG specific classes
-### t.b.d.
-
-
-##IISG specific properties
-
 iisgv:nativeViewer a rdf:Property ;
         rdfs:label "nativeViewer"@nl ;
         rdfs:comment "URL of the page with the item/record details in the native website"@en ;
         sdo:domainIncludes dcm:PhysicalObject, sdo:Article, sdo:AudioObject, sdo:CreativeWorkSeries, sdo:Book, sdo:DataCatalog, sdo:Dataset, sdo:ImageObject, sdo:MusicRecording, sdo:VideoObject, sdo:WebPage, rico:RecordSet;
         sdo:rangeIncludes sdo:URL .
-
-### T.B.D.
-#access: prefix.iisgv('access'),
-#accessRestriction: prefix.iisgv('accessRestriction'),
-#actionNote: prefix.iisgv('actionNote'),
-#ArchivalMaterial: prefix.iisgv('ArchivalMaterial'),
-#arrangement: prefix.iisgv('arrangement'),
-#biography: prefix.iisgv('biography'),
-#bulkDates: prefix.iisgv('bulkDates'),
-#country: prefix.iisgv('country'),
-#date: prefix.iisgv('date')
-#dateOfPublication: prefix.iisgv('dateOfPublication'),
-#inclusiveDates: prefix.iisgv('inclusiveDates'),
-#location: prefix.iisgv('location'),
-#locationOfOriginals: prefix.iisgv('locationOfOriginals'),
-#nativeViewer: prefix.iisgv('nativeViewer'),
-#numberOfPages: prefix.iisgv('numberOfPages'),
-#physicalDescription: prefix.iisgv('physicalDescription'),
-#physicalNote: prefix.iisgv('physicalNote')
-#placeOfPublication: prefix.iisgv('placeOfPublication'),
-#preferCite: prefix.iisgv('preferCite'),
-#publisher: prefix.iisgv('publisher'),
-#seeAlso: prefix.iisgv('seeAlso'),
-#topicalTerm: prefix.iisgv('topicalTerm'),
