@@ -10,11 +10,13 @@ iisgv:nativeViewer a rdf:Property ;
         rdfs:comment "URL of the page with the item/record details in the native website"@en ;
         sdo:domainIncludes dcm:PhysicalObject, sdo:Article, sdo:AudioObject, sdo:CreativeWorkSeries, sdo:Book, sdo:DataCatalog, sdo:Dataset, sdo:ImageObject, sdo:MusicRecording, sdo:VideoObject, sdo:WebPage, rico:RecordSet;
         sdo:rangeIncludes sdo:URL .
+
 iisgv:dateOfPublication a rdf:Property ;
         rdfs:label "dateOfPublication"@en ;
         rdfs:comment "Used for dates (as strings) to indicate the publication date of an item or object"@en ;
         sdo:domainIncludes dcm:PhysicalObject, sdo:Article, sdo:AudioObject, sdo:CreativeWorkSeries, sdo:Book, sdo:ImageObject, sdo:MusicRecording, sdo:VideoObject, sdo:WebPage;
         sdo:rangeIncludes sdo:datePublished .
+
 iisgv:dateOfManufacture a rdf:Property ;
         rdfs:label "dateOfManufacture"@en ;
         rdfs:comment "Used for dates (as strings) to indicate the creation date of an item or object"@en ;
