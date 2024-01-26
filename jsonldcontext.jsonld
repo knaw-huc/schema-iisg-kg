@@ -65,11 +65,26 @@
         "license": {
             "@id": "sdo:license"
         },
-        "creationDate": {
-            "@id": "rico:creationDate"
-        },
         "dateCreated": {
             "@id": "sdo:dateCreated"
+        },
+        "dateOfManufacture": {
+            "@id": "iisgv:dateOfManufacture"
+        },
+        "dateModified": {
+            "@id": "sdo:dateModified"
+        },  
+        "dateOfPublication": {
+            "@id": "iisgv:dateOfPublication"
+        },
+        "datePublished": {
+            "@id": "sdo:datePublished"
+        },
+        "uploadDate": {
+            "@id": "sdo:uploadDate"
+        },       
+        "temporalCoverage": {
+            "@id": "sdo:temporalCoverage"
         }        
     }
 }
