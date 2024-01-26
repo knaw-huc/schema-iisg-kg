@@ -25,5 +25,10 @@ iisgv:nativeViewer iisgv:displayLabel "View in original presentation"@en .
 sdo:creator iisgv:displayLabel "Creator"@en .
 sdo:license iisgv:displayLabel "License"@en .
 sdo:description iisgv:displayLabel "Description"@en .
-rico:creationDate iisgv:displayLabel "Dates of Creation"@en .
-sdo:dateCreated iisgv:displayLabel "Date of Creation"@en .
+sdo:dateCreated iisgv:displayLabel "Date(s) of Creation"@en .
+iisgv:dateOfManufacture iisgv:displayLabel "Date(s) of creation"@en .
+iisgv:dateOfPublication iisgv:displayLabel "Date(s) of publication"@en .
+sdo:datePublished iisgv:displayLabel "Date(s) of publication"@en .
+sdo:uploadDate iisgv:displayLabel "Date of modification"@en .
+sdo:uploadDate iisgv:displayLabel "Date of upload"@en .
+sdo:temporalCoverage iisgv:displayLabel "Temporal coverage"@en .
