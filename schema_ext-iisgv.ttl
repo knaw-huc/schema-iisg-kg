@@ -15,7 +15,7 @@ iisgv:dateOfPublication a rdf:Property ;
         rdfs:label "dateOfPublication"@en ;
         rdfs:comment "Used for dates (as strings) to indicate the publication date of an item or object"@en ;
         sdo:domainIncludes dcm:PhysicalObject, sdo:Article, sdo:AudioObject, sdo:CreativeWorkSeries, sdo:Book, sdo:ImageObject, sdo:MusicRecording, sdo:VideoObject, sdo:WebPage;
-        sdo:rangeIncludes sdo:datePublished .
+        sdo:rangeIncludes sdo:date .
 
 iisgv:dateOfManufacture a rdf:Property ;
         rdfs:label "dateOfManufacture"@en ;
