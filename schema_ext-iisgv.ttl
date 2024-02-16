@@ -21,4 +21,4 @@ iisgv:dateOfManufacture a rdf:Property ;
         rdfs:label "dateOfManufacture"@en ;
         rdfs:comment "Used for dates (as strings) to indicate the creation date of an item or object"@en ;
         sdo:domainIncludes sdo:Article, sdo:AudioObject, sdo:Book, sdo:ImageObject, sdo:MusicRecording, sdo:VideoObject;
-        sdo:rangeIncludes sdo:dateCreated .
+        sdo:rangeIncludes sdo:date .
