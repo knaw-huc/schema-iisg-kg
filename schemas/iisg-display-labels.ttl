@@ -6,18 +6,18 @@
 @prefix rico: <https://www.ica.org/standards/RiC/ontology#> .
 
 sdo:Article iisgv:displayLabel "Article (journal)"@en .
-sdo:AudioObject iisgv:displayLabel "Audio (Spoken)"@en .
+sdo:AudioObject iisgv:displayLabel "Audio (spoken)"@en .
 sdo:Book iisgv:displayLabel "Book / Brochure"@en .
 sdo:CreativeWorkSeries iisgv:displayLabel "Serial"@en .
 sdo:DataCatalog iisgv:displayLabel "Data Catalogue"@en .
 sdo:Dataset iisgv:displayLabel "Dataset"@en .
 sdo:Event iisgv:displayLabel "Event Page"@en .
 sdo:ImageObject iisgv:displayLabel "Image / Poster"@en .
-sdo:MusicRecording iisgv:displayLabel "Audio (Music)"@en .
+sdo:MusicRecording iisgv:displayLabel "Audio (music)"@en .
 dcm:PhysicalObject iisgv:displayLabel "Object (e.g. banner)"@en .
 foaf:PersonalProfileDocument iisgv:displayLabel "Staff Page"@en .
 rico:RecordSet iisgv:displayLabel "Archive"@en .
-sdo:VideoObject iisgv:displayLabel "Video (Moving Image)"@en .
+sdo:VideoObject iisgv:displayLabel "Video (moving Image)"@en .
 sdo:WebPage iisgv:displayLabel "Webpage"@en .
 sdo:name iisgv:displayLabel "Title"@en .
 # sdo:url iisgv:displayLabel "Item details and access"@en .
