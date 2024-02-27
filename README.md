@@ -1,5 +1,5 @@
 # iisg-kg-schema
-This repository generates the schema documentation for the International Institute of Social History's knowledge graph. Available at ([[https://lilimelgar.github.io/schema-iisg-kg/](https://knaw-huc.github.io/schema-iisg-kg/)]
+This repository generates the schema documentation for the International Institute of Social History's knowledge graph. Available at: https://knaw-huc.github.io/schema-iisg-kg/
 
 # Schemas used at the IISG KG
 
